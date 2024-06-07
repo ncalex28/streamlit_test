@@ -1,6 +1,4 @@
 import streamlit as st
-import altair as alt
-import pandas as pd
 
 st.title('Hello, Streamlit!')
 st.write('Streamlit is installed and working correctly.')
